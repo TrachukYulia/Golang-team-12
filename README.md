@@ -1,5 +1,5 @@
 # Twitter
-  create by   
+  created by   
   Daria Kopaihorodcka, 
   Trachuk Yulia.
 
