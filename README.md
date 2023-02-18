@@ -11,6 +11,6 @@
 
 * Authorization;
 * Registration;
+* Write posts;
 * Commenting on posts;
-* Possibility to comment on the post;
 * View all posts.
