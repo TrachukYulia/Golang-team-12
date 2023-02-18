@@ -1,6 +1,6 @@
 # Twitter
   created by   
-  Daria Kopaihorodcka, 
+  Daria Kopaihorodska, 
   Trachuk Yulia.
 
 # Goals of project
