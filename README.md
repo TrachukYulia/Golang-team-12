@@ -14,3 +14,7 @@
 * Write posts;
 * Commenting on posts;
 * View all posts.
+
+Build Status:
+<img src="https://github.com/TrachukYulia/Golang-team-12/workflows/go.yml/badge.svg?branch=main"><br>
+
